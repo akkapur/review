@@ -1,0 +1,22 @@
+{
+	"requireCurlyBraces": [ "if", "else", "for", "while", "do" ],
+	"requireSpaceAfterKeywords": [ "if", "else", "for", "while", "do", "switch", "return" ],
+	"requireSpacesInFunctionExpression": {
+		"beforeOpeningCurlyBrace": true
+	},
+	"requireSpacesInsideObjectBrackets": "all",
+	"disallowLeftStickedOperators": [ "?" ],
+	"disallowRightStickedOperators": [ "?", "/", "*", ":", "=", "==", "===", "!=", "!==", ">", ">=", "<", "<=" ],
+	"requireSpaceBeforeBinaryOperators": [ "+", "-", "/", "*", "=", "==", "===", "!=", "!==", ">", ">=", "<", "<=" ],
+	"requireSpaceAfterBinaryOperators": [ "+", "-", "/", "*", "=", "==", "===", "!=", "!==", ">", ">=", "<", "<=" ],
+	"disallowSpaceAfterPrefixUnaryOperators": [ "++", "--", "+", "-" ],
+	"disallowSpaceBeforePostfixUnaryOperators": [ "++", "--" ],
+	"requireRightStickedOperators": [ "!" ],
+	"requireLeftStickedOperators": [ "," ],
+	"disallowKeywords": [ "with" ],
+	"disallowMultipleLineBreaks": true,
+	"disallowKeywordsOnNewLine": [ "else" ],
+	"disallowSpaceAfterObjectKeys": true,
+	"validateIndentation": "\t",
+	"validateLineBreaks": "LF"
+}
