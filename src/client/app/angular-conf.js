@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('responses-client', [
+angular.module('review-client', [
 	'ngRoute',
 	'mgcrea.ngStrap.modal',
 	'mgcrea.ngStrap.alert',

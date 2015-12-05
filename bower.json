@@ -1,5 +1,5 @@
 {
-  "name": "responses-client",
+  "name": "review-client",
   "dependencies": {
     "angular": "~1.2.28",
     "angular-route": "~1.2.26",
